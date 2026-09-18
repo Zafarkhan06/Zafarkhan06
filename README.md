@@ -1,0 +1,102 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%20👋,%20I'm%20Zafar%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full-Stack%20Engineer%20%7C%20React%20·%20Next.js%20·%20Node.js%20·%20Laravel&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/zafar-khan-12118a234">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%7C+4%2B+years+building+AI-powered+apps;Shipped+products+used+by+millions+of+users;Founding+Engineer+%40+MyBuzzly;Currently%3A+Senior+MERN+Stack+Engineer+%40+Myco.io&font=Fira+Code&center=true&width=650&height=45&color=00C6FF&vCenter=true&size=20"/>
+</a>
+
+</div>
+
+### 🚀 About Me
+
+I'm a Full-Stack Engineer with 4+ years of experience designing and scaling AI-powered applications used by millions of users, across OTT, AI, GovTech, HealthTech, and SaaS. I specialize in **React.js / Next.js** on the frontend and **Node.js / Laravel** on the backend — focused on scalable architecture, performance, and clean UX.
+
+Beyond client and team work, I build and ship my own products end-to-end — from idea, to code, to SEO and launch.
+
+- 🔭 Currently: **Senior MERN Stack Engineer @ [Myco.io](https://myco.io)**
+- 🛠️ Founding Engineer @ **[MyBuzzly](https://mybuzzly.com)** — built entirely by me
+- 🌱 Background: **BSIT, PUCIT** — FYP: *Travelary*
+- 📫 Reach me: **zafarkhanbusiness9@gmail.com**
+- 🌐 Portfolio: **[zafar-khan-senior-fullstack.vercel.app](https://zafar-khan-senior-fullstack.vercel.app/)**
+
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafar-khan-12118a234)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zafarkhanbusiness9@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zafar-khan-senior-fullstack.vercel.app/)
+
+</div>
+
+<br/>
+
+### 🧰 Tech Stack
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</div>
+
+<br/>
+
+### 💼 Professional Highlights
+
+| Company | Role | Impact |
+|---|---|---|
+| **[Myco.io](https://myco.io)** — streaming platform (live sports, movies, dramas) | Senior MERN Stack Engineer *(2 yrs)* | Led frontend for a platform with **1M+ monthly users**; contributed to the React Native mobile/TV app used by **15M+ users** |
+| **TechTics.ai** | Front-End Team Lead | Built the entire frontend architecture for **Talina** (AI hiring platform with video interviews); shipped the **UHS Admissions Portal** (GovTech, Punjab) used by **60K+ students/year** |
+| **[FirmFox](https://firmfox.com)** — UAE business setup platform | Frontend Lead | Led development and personally built **~60%** of the application |
+| **AZ TechZone** | Web Developer | Built responsive, accessible, cross-browser websites from the ground up |
+
+<br/>
+
+### 🛠️ Featured Products — built end-to-end by me
+
+| Project | What it is | Link |
+|---|---|---|
+| 🧩 **MyBuzzly** *(Founding Engineer)* | Newsletter + no-code website builder with built-in analytics & monetization | [mybuzzly.com](https://mybuzzly.com) |
+| 📄 **AI Resume Fixer** *(own product)* | AI tool that tailors your resume to a specific job description | [airesumefixer.com](https://airesumefixer.com) |
+| ⏱️ **StaffClock** | Employee time-tracking system, including a desktop app | [staffclock.org](https://staffclock.org) |
+| 💪 **Cheesebase** | Mobile health & fitness planner — workouts, calorie tracking, barcode scan, AI plans | [cheesebase.com](https://cheesebase.com) |
+| 🏥 **Mediknocx** | Medical billing & revenue-cycle platform for US healthcare providers; also handled SEO — drove it to 100K+ impressions and thousands of clicks | [mediknocx.com](https://www.mediknocx.com) |
+| 🩺 **Dr. Awadhesh Gupta MD** | Website for a NY-based internal medicine practice | [awadheshguptamd.com](https://www.awadheshguptamd.com) |
+| 🎓 **Master With Awais** | Course & mentorship platform for eBay selling | [masterwithawais.com](https://masterwithawais.com) |
+| 📚 **Mangaloom** | WordPress-based manga reading platform | [mangaloom.com](https://mangaloom.com) |
+
+<br/>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Zafarkhan06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.demolab.com/?user=Zafarkhan06&theme=tokyonight&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafarkhan06&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
