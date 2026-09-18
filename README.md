@@ -8,16 +8,28 @@
 
 </div>
 
+<div align="center">
+
+### 🎯 Open to Founding Engineer / Senior Full-Stack roles
+
+I help founders take products from **idea → shipped**, fast. If you're building and need someone who can own the stack end-to-end, let's talk.
+
+📅 **[Book a 15-min call — calendly.com/zafarkhanbusiness9](https://calendly.com/zafarkhanbusiness9)**
+
+</div>
+
 ### 🚀 About Me
 
 I'm a Full-Stack Engineer with 4+ years of experience designing and scaling AI-powered applications used by millions of users, across OTT, AI, GovTech, HealthTech, and SaaS. I specialize in **React.js / Next.js** on the frontend and **Node.js / Laravel** on the backend — focused on scalable architecture, performance, and clean UX.
 
-Beyond client and team work, I build and ship my own products end-to-end — from idea, to code, to SEO and launch.
+Beyond client and team work, I build and ship my own products end-to-end — from idea, to code, to SEO and launch. I've been a **founding engineer** before and know how to move at startup speed while keeping things scalable.
 
 - 🔭 Currently: **Senior MERN Stack Engineer @ [Myco.io](https://myco.io)**
 - 🛠️ Founding Engineer @ **[MyBuzzly](https://mybuzzly.com)** — built entirely by me
 - 🌱 Background: **BSIT, PUCIT** — FYP: *Travelary*
-- 📫 Reach me: **zafarkhanbusiness9@gmail.com**
+- 📫 Email: **zafarkhanbusiness9@gmail.com**
+- 📱 Phone: **+92 305 5753869**
+- 📅 Calendly: **[calendly.com/zafarkhanbusiness9](https://calendly.com/zafarkhanbusiness9)**
 - 🌐 Portfolio: **[zafar-khan-senior-fullstack.vercel.app](https://zafar-khan-senior-fullstack.vercel.app/)**
 
 <br/>
@@ -26,6 +38,8 @@ Beyond client and team work, I build and ship my own products end-to-end — fro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafar-khan-12118a234)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zafarkhanbusiness9@gmail.com)
+[![Calendly](https://img.shields.io/badge/Book%20a%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/zafarkhanbusiness9)
+[![Phone](https://img.shields.io/badge/+92%20305%205753869-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923055753869)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://zafar-khan-senior-fullstack.vercel.app/)
 
 </div>
