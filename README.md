@@ -6,7 +6,20 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%7C+4%2B+years+building+AI-powered+apps;Shipped+products+used+by+millions+of+users;Founding+Engineer+%40+MyBuzzly;Currently%3A+Senior+MERN+Stack+Engineer+%40+Myco.io&font=Fira+Code&center=true&width=650&height=45&color=00C6FF&vCenter=true&size=20"/>
 </a>
 
+<br/>
+
+![Full-Stack Engineer](https://img.shields.io/badge/-Full--Stack%20Engineer-1a1a2e?style=flat-square)
+![AI Engineer](https://img.shields.io/badge/-AI%20Engineer-1a1a2e?style=flat-square)
+![Founding Engineer](https://img.shields.io/badge/-Founding%20Engineer-1a1a2e?style=flat-square)
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-2ea44f?style=flat-square)
+![Location](https://img.shields.io/badge/-Lahore%2C%20Pakistan-1a1a2e?style=flat-square)
+<br/>
+![Profile Views](https://komarev.com/ghpvc/?username=Zafarkhan06&style=flat-square&color=00c6ff&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Zafarkhan06?style=flat-square&label=Followers&color=00c6ff)
+
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -18,7 +31,9 @@ I help founders take products from **idea → shipped**, fast. If you're buildin
 
 </div>
 
-### 🚀 About Me
+<br/>
+
+## 🚀 About Me
 
 I'm a Full-Stack Engineer with 4+ years of experience designing and scaling AI-powered applications used by millions of users, across OTT, AI, GovTech, HealthTech, and SaaS. I specialize in **React.js / Next.js** on the frontend and **Node.js / Laravel** on the backend — focused on scalable architecture, performance, and clean UX.
 
@@ -32,8 +47,6 @@ Beyond client and team work, I build and ship my own products end-to-end — fro
 - 📅 Calendly: **[calendly.com/zafarkhanbusiness9](https://calendly.com/zafarkhanbusiness9)**
 - 🌐 Portfolio: **[zafar-khan-senior-fullstack.vercel.app](https://zafar-khan-senior-fullstack.vercel.app/)**
 
-<br/>
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zafar-khan-12118a234)
@@ -46,7 +59,7 @@ Beyond client and team work, I build and ship my own products end-to-end — fro
 
 <br/>
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -77,7 +90,7 @@ Beyond client and team work, I build and ship my own products end-to-end — fro
 
 <br/>
 
-### 🤖 Deep into AI Engineering
+## 🤖 Deep into AI Engineering
 
 I don't just use AI tools — I build with them. AI is a core part of how I ship products and how I work day to day:
 
@@ -88,7 +101,25 @@ I don't just use AI tools — I build with them. AI is a core part of how I ship
 
 <br/>
 
-### 💼 Professional Experience
+## 🛠️ Products I've Built
+
+- **[MyBuzzly](https://mybuzzly.com)** — *Founding Engineer.* Newsletter + no-code website builder with built-in analytics & monetization
+- **[ContentFlow](https://social-media.synquarailabs.com/)** — AI command center: generate content, schedule across every network, track performance
+- **[AI Resume Fixer](https://airesumefixer.com)** — AI tool that tailors your resume to a specific job description
+- **[StaffClock](https://staffclock.org)** — Employee time-tracking system, including a desktop app
+- **[Cheesebase](https://cheesebase.com)** — Mobile health & fitness planner with AI-powered plans
+- **[Mediknocx](https://www.mediknocx.com)** — Medical billing & revenue-cycle platform for US healthcare providers (also handled SEO — 100K+ impressions, thousands of clicks)
+- **[Dr. Awadhesh Gupta MD](https://www.awadheshguptamd.com)** — Website for a NY-based internal medicine practice
+- **[Master With Awais](https://masterwithawais.com)** — Course & mentorship platform for eBay selling
+- **[Mangaloom](https://mangaloom.com)** — WordPress-based manga reading platform
+- **[Draper TV](https://drapertv.com)** — Streaming platform for entrepreneurship content, including Tim Draper's "Meet the Drapers" pitch competition series
+- **[Munchr](https://munchr.co)** — Food platform, currently in early access
+
+*All built entirely by me, end-to-end, unless noted otherwise.*
+
+<br/>
+
+## 💼 Professional Experience
 
 **[Myco.io](https://myco.io)** — Senior MERN Stack Engineer&nbsp;&nbsp;·&nbsp;&nbsp;*Jan 2025 – Present&nbsp;&nbsp;·&nbsp;&nbsp;Lahore, Pakistan*
 <br/>`React.js` `Next.js` `TypeScript` `Node.js` `Express` `MongoDB`
@@ -108,38 +139,33 @@ I don't just use AI tools — I build with them. AI is a core part of how I ship
 - Applied single-page application concepts to improve UX.
 - Ensured accessibility and cross-browser compatibility.
 
-<br/>
-
 **Also:** led development of **[FirmFox](https://firmfox.com)** (UAE business setup platform) as Frontend Lead, personally building ~60% of the application.
 
 <br/>
 
-### 🛠️ Featured Products — built end-to-end by me
+## 📊 GitHub Stats
 
-| Project | What it is | Link |
-|---|---|---|
-| 🧩 **MyBuzzly** *(Founding Engineer)* | Newsletter + no-code website builder with built-in analytics & monetization | [mybuzzly.com](https://mybuzzly.com) |
-| 🤖 **ContentFlow** | AI command center — generates platform-native content, schedules across every major network, and tracks performance | [social-media.synquarailabs.com](https://social-media.synquarailabs.com/) |
-| 📄 **AI Resume Fixer** *(own product)* | AI tool that tailors your resume to a specific job description | [airesumefixer.com](https://airesumefixer.com) |
-| ⏱️ **StaffClock** | Employee time-tracking system, including a desktop app | [staffclock.org](https://staffclock.org) |
-| 💪 **Cheesebase** | Mobile health & fitness planner — workouts, calorie tracking, barcode scan, AI plans | [cheesebase.com](https://cheesebase.com) |
-| 🏥 **Mediknocx** | Medical billing & revenue-cycle platform for US healthcare providers; also handled SEO — drove it to 100K+ impressions and thousands of clicks | [mediknocx.com](https://www.mediknocx.com) |
-| 🩺 **Dr. Awadhesh Gupta MD** | Website for a NY-based internal medicine practice | [awadheshguptamd.com](https://www.awadheshguptamd.com) |
-| 🎓 **Master With Awais** | Course & mentorship platform for eBay selling | [masterwithawais.com](https://masterwithawais.com) |
-| 📚 **Mangaloom** | WordPress-based manga reading platform | [mangaloom.com](https://mangaloom.com) |
-
-<br/>
-
-### 📊 GitHub Stats
+I actively use three GitHub accounts — stats tools can't sum multiple accounts into one number, so here's each one:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zafarkhan06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.demolab.com/?user=Zafarkhan06&theme=tokyonight&hide_border=true" width="48%"/>
+<sub><b>Zafarkhan06</b></sub><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Zafarkhan06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafarkhan06&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<sub><b>Mediknocx</b></sub><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mediknocx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%"/>
+
+<sub><b>contact769</b></sub><br/>
+<img src="https://github-readme-stats.vercel.app/api?username=contact769&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=Zafarkhan06&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafarkhan06&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
 
 </div>
+
+> ⚠️ These cards are currently showing broken because the public `github-readme-stats` demo service is over capacity (503). I'm setting up a self-hosted fix that generates them inside this repo via GitHub Actions — see note below.
 
 <br/>
 
