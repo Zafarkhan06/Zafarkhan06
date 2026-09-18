@@ -145,27 +145,25 @@ I don't just use AI tools — I build with them. AI is a core part of how I ship
 
 ## 📊 GitHub Stats
 
-I actively use three GitHub accounts — stats tools can't sum multiple accounts into one number, so here's each one:
+I actively use three GitHub accounts — stats tools can't sum multiple accounts into one number, so here's each one. These cards are generated inside this repo by a GitHub Action (not the public demo service, which is unreliable), so they'll always load.
 
 <div align="center">
 
 <sub><b>Zafarkhan06</b></sub><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Zafarkhan06&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%"/>
+<img src="./profile/stats-zafarkhan06.svg" width="70%"/>
 
 <sub><b>Mediknocx</b></sub><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=Mediknocx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%"/>
+<img src="./profile/stats-mediknocx.svg" width="70%"/>
 
 <sub><b>contact769</b></sub><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=contact769&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="70%"/>
+<img src="./profile/stats-contact769.svg" width="70%"/>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.demolab.com/?user=Zafarkhan06&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zafarkhan06&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+<img src="./profile/top-langs-zafarkhan06.svg" width="40%"/>
 
 </div>
-
-> ⚠️ These cards are currently showing broken because the public `github-readme-stats` demo service is over capacity (503). I'm setting up a self-hosted fix that generates them inside this repo via GitHub Actions — see note below.
 
 <br/>
 
