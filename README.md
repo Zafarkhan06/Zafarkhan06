@@ -103,6 +103,7 @@ I don't just use AI tools — I build with them. AI is a core part of how I ship
 
 ## 🛠️ Products I've Built
 
+- **[Myco.io](https://myco.io)** — Streaming platform (live sports, movies, dramas) with 1M+ monthly users; I lead frontend development here as Senior MERN Stack Engineer
 - **[MyBuzzly](https://mybuzzly.com)** — *Founding Engineer.* Newsletter + no-code website builder with built-in analytics & monetization
 - **[ContentFlow](https://social-media.synquarailabs.com/)** — AI command center: generate content, schedule across every network, track performance
 - **[AI Resume Fixer](https://airesumefixer.com)** — AI tool that tailors your resume to a specific job description
@@ -114,6 +115,7 @@ I don't just use AI tools — I build with them. AI is a core part of how I ship
 - **[Mangaloom](https://mangaloom.com)** — WordPress-based manga reading platform
 - **[Draper TV](https://drapertv.com)** — Streaming platform for entrepreneurship content, including Tim Draper's "Meet the Drapers" pitch competition series
 - **[Munchr](https://munchr.co)** — Food platform, currently in early access
+- **[Muntazim](https://muntazim.techtics.ai/)** — Built at TechTics.ai *(note: this site's SSL certificate currently shows as expired — worth checking/renewing before sharing this link)*
 
 *All built entirely by me, end-to-end, unless noted otherwise.*
 
