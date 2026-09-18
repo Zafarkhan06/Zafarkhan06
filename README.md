@@ -88,14 +88,29 @@ I don't just use AI tools — I build with them. AI is a core part of how I ship
 
 <br/>
 
-### 💼 Professional Highlights
+### 💼 Professional Experience
 
-| Company | Role | Impact |
-|---|---|---|
-| **[Myco.io](https://myco.io)** — streaming platform (live sports, movies, dramas) | Senior MERN Stack Engineer *(2 yrs)* | Led frontend for a platform with **1M+ monthly users**; contributed to the React Native mobile/TV app used by **15M+ users** |
-| **TechTics.ai** | Front-End Team Lead | Built the entire frontend architecture for **Talina** (AI hiring platform with video interviews); shipped the **UHS Admissions Portal** (GovTech, Punjab) used by **60K+ students/year** |
-| **[FirmFox](https://firmfox.com)** — UAE business setup platform | Frontend Lead | Led development and personally built **~60%** of the application |
-| **AZ TechZone** | Web Developer | Built responsive, accessible, cross-browser websites from the ground up |
+**[Myco.io](https://myco.io)** — Senior MERN Stack Engineer&nbsp;&nbsp;·&nbsp;&nbsp;*Jan 2025 – Present&nbsp;&nbsp;·&nbsp;&nbsp;Lahore, Pakistan*
+<br/>`React.js` `Next.js` `TypeScript` `Node.js` `Express` `MongoDB`
+- Led frontend development for a streaming platform supporting **1M+ monthly users**, architecting a Next.js-based component system that improved maintainability and development velocity.
+- Revamped onboarding/auth flows (**-30% drop-off**) and integrated multiple payment gateways (**+25% transaction success rate**).
+- Contributed to the React Native mobile & TV app used by **15M+ users**; led code reviews and authored technical documentation to accelerate team productivity.
+
+**TechTics.ai** — Front-End Team Lead&nbsp;&nbsp;·&nbsp;&nbsp;*May 2023 – Jan 2025&nbsp;&nbsp;·&nbsp;&nbsp;Lahore, Pakistan*
+<br/>`React.js` `Next.js` `TypeScript` `Node.js` `Laravel`
+- Led frontend development for AI-powered hiring platform **Talina**, reducing recruitment time by **50%** through automation and optimized workflows.
+- Designed and deployed the **UHS Admissions Portal** (GovTech, Punjab) serving **40K+ annual users**, ensuring scalability, accessibility, and reliability under peak traffic.
+- Built an AI-driven chatbot automation system for a Dubai-based business registration platform (**-70% manual workload**) and architected scalable, microservices-based chatbot infrastructure across multiple client sites.
+
+**AZ TechZone** — Web Developer&nbsp;&nbsp;·&nbsp;&nbsp;*Feb 2022 – Dec 2022&nbsp;&nbsp;·&nbsp;&nbsp;Lahore, Pakistan*
+<br/>`React.js` `Next.js` `WordPress` `HTML` `CSS`
+- Built mobile-first, responsive websites using HTML, CSS, JavaScript, and Webpack.
+- Applied single-page application concepts to improve UX.
+- Ensured accessibility and cross-browser compatibility.
+
+<br/>
+
+**Also:** led development of **[FirmFox](https://firmfox.com)** (UAE business setup platform) as Frontend Lead, personally building ~60% of the application.
 
 <br/>
 
