@@ -147,20 +147,16 @@ I don't just use AI tools — I build with them. AI is a core part of how I ship
 
 ## 📊 GitHub Stats
 
-I actively use three GitHub accounts — stats tools can't sum multiple accounts into one number, so here's each one. These cards are generated inside this repo by a GitHub Action (not the public demo service, which is unreliable), so they'll always load.
+I code across three GitHub accounts — no stats tool can sum them into one number, so here's a quick side-by-side, plus the full breakdown for my main account below.
 
 <div align="center">
 
-<sub><b>Zafarkhan06</b></sub><br/>
-<img src="./profile/stats-zafarkhan06.svg" width="70%"/>
+| | [Zafarkhan06](https://github.com/Zafarkhan06) | [Mediknocx](https://github.com/Mediknocx) | [contact769](https://github.com/contact769) |
+|:---:|:---:|:---:|:---:|
+| Followers | ![](https://img.shields.io/github/followers/Zafarkhan06?style=flat-square&label=%20&color=00c6ff) | ![](https://img.shields.io/github/followers/Mediknocx?style=flat-square&label=%20&color=00c6ff) | ![](https://img.shields.io/github/followers/contact769?style=flat-square&label=%20&color=00c6ff) |
+| Public Repos | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FZafarkhan06&label=%20&query=%24.public_repos&color=00c6ff) | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FMediknocx&label=%20&query=%24.public_repos&color=00c6ff) | ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcontact769&label=%20&query=%24.public_repos&color=00c6ff) |
 
-<sub><b>Mediknocx</b></sub><br/>
-<img src="./profile/stats-mediknocx.svg" width="70%"/>
-
-<sub><b>contact769</b></sub><br/>
-<img src="./profile/stats-contact769.svg" width="70%"/>
-
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.demolab.com/?user=Zafarkhan06&theme=tokyonight&hide_border=true" width="48%"/>
 <img src="./profile/top-langs-zafarkhan06.svg" width="40%"/>
