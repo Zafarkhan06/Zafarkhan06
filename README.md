@@ -67,8 +67,24 @@ Beyond client and team work, I build and ship my own products end-to-end — fro
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+<br/>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents%20%26%20Automation-0EA5E9?style=for-the-badge)
 
 </div>
+
+<br/>
+
+### 🤖 Deep into AI Engineering
+
+I don't just use AI tools — I build with them. AI is a core part of how I ship products and how I work day to day:
+
+- 🧠 Built **[ContentFlow](https://social-media.synquarailabs.com/)** — an AI command center that generates platform-native content, schedules it across every major social network, and tracks performance, all in one place
+- 🔌 Use **MCP (Model Context Protocol)** to wire AI agents directly into real tools, codebases, and data sources
+- ⚙️ Built my own **internal commands/agents** that automate large chunks of my day-to-day coding workflow — scaffolding, reviews, repetitive engineering tasks
+- 🚀 Shipped AI-driven features across production products: AI-powered chatbot automation (Dubai business registration platform), video-interview AI hiring flow (**Talina**), and my own **AI Resume Fixer**
 
 <br/>
 
@@ -88,6 +104,7 @@ Beyond client and team work, I build and ship my own products end-to-end — fro
 | Project | What it is | Link |
 |---|---|---|
 | 🧩 **MyBuzzly** *(Founding Engineer)* | Newsletter + no-code website builder with built-in analytics & monetization | [mybuzzly.com](https://mybuzzly.com) |
+| 🤖 **ContentFlow** | AI command center — generates platform-native content, schedules across every major network, and tracks performance | [social-media.synquarailabs.com](https://social-media.synquarailabs.com/) |
 | 📄 **AI Resume Fixer** *(own product)* | AI tool that tailors your resume to a specific job description | [airesumefixer.com](https://airesumefixer.com) |
 | ⏱️ **StaffClock** | Employee time-tracking system, including a desktop app | [staffclock.org](https://staffclock.org) |
 | 💪 **Cheesebase** | Mobile health & fitness planner — workouts, calorie tracking, barcode scan, AI plans | [cheesebase.com](https://cheesebase.com) |
